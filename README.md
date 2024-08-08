@@ -19,7 +19,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Typescript, React**
+- 🌱 I’m currently learning **Typescript, React, Flutter**
 
 - 💬 Ask me about **Java, Python, Web Development**
 
