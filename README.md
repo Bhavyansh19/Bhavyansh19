@@ -40,3 +40,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bhavyansh19&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyansh19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# Leetcode Stats:
+(https://leetcard.jacoblin.cool/Bhuvii19?theme=catppuccinMocha&font=Gafata&ext=heatmap)
+
