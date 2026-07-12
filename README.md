@@ -1,45 +1,56 @@
-<h1 align="center">Hi 👋, I'm Bhavyansh Jain</h1>
-<h3 align="center">No Code has zero Errors</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&text=BHAVYANSH&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=backend%20engineer%20%C3%97%20AI%20builder&descAlignY=58&descSize=18&descColor=D0D0D0" alt="Bhavyansh" width="100%" />
 
-<div align="center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=800&color=00C9A7&background=00000000&center=true&vCenter=true&width=600&height=30&lines=B.Tech+CSE+%C2%B7+VIT+Bhopal+%2726;incoming+SDE+%40+LTIMindtree;builds+things+from+scratch+to+understand+them" alt="tagline" />
 
+```
+$ whoami
+Bhavyansh — B.Tech CSE, VIT Bhopal '26
 
-- 🌱 I’m currently learning **Typescript, React, Flutter**
+$ status --current
+onboarding @ LTIMindtree (upcoming) · grinding DSA daily · AWS cert bootstrapping
 
-- 💬 Ask me about **Java, Python, Web Development**
+$ uptime
+still here.
+```
 
-- 📫 How to reach me **bhavyansh.bj@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=700&color=888888&background=00000000&center=false&vCenter=true&width=600&height=25&lines=grinding+DSA+one+two-pointer+problem+at+a+time...;fighting+AWS+IAM+permissions+for+sport...;still+here._" alt="live status" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/bhavyansh19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bhavyansh19" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/sxgedzns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/sxgedzns" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Bhuvii19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user6808mv/" height="30" width="40" /></a>
-</p>
+<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**`$ ls -la ~/projects`**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bhavyansh19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bhavyansh19&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyansh19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```
+mini-git/       git, rebuilt from scratch — object store, staging, branches, DAG viewer
+                → github.com/Bhavyansh19/mini-git
 
-# Leetcode Stats:
-![](https://leetcard.jacoblin.cool/Bhuvii19?theme=catppuccinMocha&font=Gafata&ext=heatmap)
+subtrack/       subscription tracker — Spring Boot + PostgreSQL, React + Vite, split-repo
+                → github.com/Bhavyansh19/subtrack-server
+                → github.com/Bhavyansh19/subtrack-client
 
+counterjab/     LangGraph agent on Gemini 2.5 Flash — roasts/toasts classifier
+                → github.com/Bhavyansh19/counterjab
+```
+
+<br>
+
+**`$ cat stack.env`**
+
+```
+RUNTIME_PRIMARY    = java + spring-boot
+RUNTIME_SECONDARY  = python + langchain
+BACKEND_ALT        = node.js + express
+FRONTEND           = react / vite
+DATA               = postgresql, mysql, mongodb
+CLOUD              = aws (currently arguing with IAM about who I am)
+CURRENTLY_BROKEN   = my sleep schedule, pre-LTIM
+```
+
+<br>
+
+**`$ whoami --contact`**
+
+not on socials much — but [linkedin](https://www.linkedin.com/in/bhavyansh19/) · [leetcode](https://leetcode.com/u/Bhuvii19/) · `bhavyansh.bj@gmail.com`
+
+<br>
+
+<sub>this file was last edited by a human who should've been doing DSA instead</sub>
