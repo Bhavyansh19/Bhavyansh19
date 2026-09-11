@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&text=BHAVYANSH&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=backend%20engineer%20%C3%97%20AI%20builder&descAlignY=58&descSize=18&descColor=D0D0D0" alt="Bhavyansh" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&text=BHAVYANSH&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=backend%20engineer%20%C3%97%20data%20engineer%20%C3%97%20AI%20builder&descAlignY=58&descSize=18&descColor=D0D0D0" alt="Bhavyansh" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=800&color=00C9A7&background=00000000&center=true&vCenter=true&width=600&height=30&lines=B.Tech+CSE+%C2%B7+VIT+Bhopal+%2726;incoming+SDE+%40+LTIMindtree;builds+things+from+scratch+to+understand+them" alt="tagline" />
 
